@@ -81,3 +81,21 @@ def index():
         }
     ]
     return render_template("index.html", title='Home', posts=posts)
+
+
+@app.route('/404')
+@app.route('/404.html')
+def not_found():
+    return render_template("404.html")
+
+
+@app.route('/contact')
+@app.route('/contact.html')
+def contact():
+    return render_template("contact.html")
+
+
+@app.route('/about')
+@app.route('/about.html')
+def about():
+    return render_template("about.html")

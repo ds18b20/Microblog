@@ -2,3 +2,11 @@
 Simple HTML Templates
 https://foundation.zurb.com/templates.html
 https://weblyb.com/blogger/standard-blogger-template-simple
+
+Web开发中常用的数据关系
+https://www.jianshu.com/p/07c1d309f037
+
+Flask send email
+set Flask mail参数
+http://flask.pocoo.org/snippets/85/
+https://muguang.me/python/python-qqmail.html

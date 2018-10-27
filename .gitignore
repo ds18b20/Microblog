@@ -1,5 +1,9 @@
-# xml
+# Dadabase
+*.db
+
+# xml/iml
 *.xml
+*.iml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
